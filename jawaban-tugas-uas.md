@@ -14,48 +14,47 @@
 
 4. Mencoba Console Sistem Operasi Windows CMD [v] ⭐⭐⭐⭐
 
+   Link : https://youtu.be/D7sh5kD3KZg
+
+5. Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
+
+   Link :
+
+6. Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
+
+   Link :
+
+7. Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
+
    Link : 
 
-Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
+8. Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 
+   Link : 
 
-Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
+9. Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 
-Referensi 1
+   Link : 
 
-Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
+10. Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 
-Referensi 1
+   Link : 
 
-Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
+11. Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
+   Link :
 
-Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
+12. Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 
+   Link :
 
-Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
+14. Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
 
+   Link : 
 
-Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
+15. Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
 
-
-Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
-
-Referensi installer PostgreSQL
-Referensi tambahan 1
-
-Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
-
-Referensi installer Dbeaver
-Referensi 1
-
-Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
-
-
-Dokumen HyperText Markup Language (HTML) ada untuk memudahkan pertukaran informasi berbasis Hypertext.
-Web Browser seperti Firefox, Chrome, Opera, ada untuk membuka dan mempresentasikan dokumen HTML
-Dokumen HTML ini bisa bersumber dari web server yang kita ingin datanya (Tokopedia, Wikipedia, Detik.com, dsb.) atau bisa juga dukumen HTML yang kita buat sendiri
-
+   Link : 
 
 Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
 
