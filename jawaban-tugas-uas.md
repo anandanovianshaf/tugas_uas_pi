@@ -12,11 +12,9 @@
 
    Link : https://youtu.be/qyhflhyTBec
 
-Mencoba Console Sistem Operasi
+4. Mencoba Console Sistem Operasi Windows CMD [v] ⭐⭐⭐⭐
 
-Windows CMD [v] ⭐⭐⭐⭐
-
-Referensi 1
+   Link : 
 
 Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 
