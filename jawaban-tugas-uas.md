@@ -5,7 +5,7 @@
 
 2. Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
 
-   Link : 
+   Link : https://youtu.be/Y4FYYLXRz94?si=34nRnA3c47ms7mDs
 
 
 Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
