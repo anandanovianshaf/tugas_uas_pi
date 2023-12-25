@@ -64,56 +64,57 @@
 
    Link : https://youtu.be/CrT8sxzDxHM
 
-Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
+18. Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
 
-Referensi tutorial
+   Link : 
 
-Isi konten halaman web : HTML
+19. Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 
-Styling halaman web : CSS
+   Link : 
 
-Interaktivitas halaman web : JavaScript
+20. Mencoba Pembuatan File JSON [v] ⭐⭐⭐
 
+   Link : 
 
+21. Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
-Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
+   Link : 
 
-Referensi []
+22. Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
 
-Mencoba Pembuatan File JSON [v] ⭐⭐⭐
+   Link : 
 
+23. Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
 
-Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
+   Link : 
 
+24. Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
 
-Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
+   Link : 
 
+25. Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
 
-Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
+   Link : 
 
+26. Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
 
-Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
+   Link : 
 
+27. Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
 
-Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
+   Link : 
 
-Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram, Telkom memanfaatkan Cloud Service karena memudahkan untuk mulai pembangunan dan analisis menggunakan infrastruktur digital yang dapat berkembang secara dinamis dengan tarif yang sangat teliti.
-Referensi cloud service: Amazon Web Service Microsoft Azure Google Cloud Platform
+28. Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
 
-Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
+   Link :
 
+29. Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
 
-Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
+   Link :
 
+30. Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
 
-Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
-
-
-Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
-
-
-Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
-
+   Link : 
 
 Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 
