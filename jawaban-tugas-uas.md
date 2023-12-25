@@ -8,8 +8,9 @@
    Link : https://youtu.be/Y4FYYLXRz94?si=34nRnA3c47ms7mDs
 
 
-Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
+3. Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 
+   Link : https://youtu.be/qyhflhyTBec
 
 Mencoba Console Sistem Operasi
 
