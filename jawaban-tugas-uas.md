@@ -1,7 +1,11 @@
-    1. Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
+1. Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
+   
+   Link : https://youtu.be/cgDhaGAEYpE
 
 
-Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
+2. Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
+
+   Link : 
 
 
 Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
