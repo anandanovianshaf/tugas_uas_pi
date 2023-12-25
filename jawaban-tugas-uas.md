@@ -18,11 +18,11 @@
 
 5. Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 
-   Link : https://youtu.be/RnEsfrm-TxQ
+   Link : 
 
 6. Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 
-   Link :
+   Link : https://youtu.be/fhPhvJ7FfEs
 
 7. Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 
@@ -30,7 +30,7 @@
 
 8. Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 
-   Link : 
+   Link : https://youtu.be/6QNIrKHhKkI
 
 9. Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 
@@ -46,7 +46,7 @@
 
 12. Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 
-   Link :
+   Link : https://youtu.be/VCvo8-R80eY
 
 14. Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
 
@@ -56,13 +56,13 @@
 
    Link : 
 
-Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
+16. Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
 
-Referensi: 1
+   Link : 
 
-Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
+17. Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
 
-Referensi terkait: 1 2
+   Link : https://youtu.be/CrT8sxzDxHM
 
 Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
 
@@ -171,6 +171,7 @@ Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
 
 Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 
+   Link : https://youtu.be/gg0fZp829cc
 
 Eksplorasi Top Github Project yang Diminati ⭐⭐
 
