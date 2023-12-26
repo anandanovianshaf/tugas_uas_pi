@@ -116,74 +116,98 @@
 
    Link : 
 
-Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
+31. Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 
+   Link :
 
-Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
+32. Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
 
+   Link :
 
-Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
+33. Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 
+   Link :
 
-Mencoba Data Visualization Dengan Tools [v] ⭐⭐
+34. Mencoba Data Visualization Dengan Tools [v] ⭐⭐
 
+   Link :
 
-Mencoba Data Visualization Dengan Code [v] ⭐⭐
+35. Mencoba Data Visualization Dengan Code [v] ⭐⭐
 
+   Link :
 
-Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
+36. Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
 
+   Link :
 
-Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
+37. Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
 
+   Link :
 
-Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
+38. Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 
+   Link :
 
-Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
+39.Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
 
+   Link :
 
-Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
+40. Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
 
+   Link :
 
-Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
+41. Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
 
+   Link :
 
-Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
+42. Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
 
+   Link :
 
-Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
+43. Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 
+   Link :
 
-Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
+44. Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 
+   Link :
 
-Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
+45. Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 
+   Link :
 
-Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐
+46. Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐
 
+   Link :
 
-Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
+47. Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
 
+   Link :
 
-Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
+48. Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
 
+   Link :
 
-Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
+49. Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 
    Link : https://youtu.be/gg0fZp829cc
 
-Eksplorasi Top Github Project yang Diminati ⭐⭐
+50. Eksplorasi Top Github Project yang Diminati ⭐⭐
 
+   Link :
 
-Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
+51. Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 
+   Link :
 
-Membangun Profil Github Page ⭐⭐⭐⭐⭐
+52. Membangun Profil Github Page ⭐⭐⭐⭐⭐
 
+   Link :
 
-Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
+53. Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 
+   Link :
 
-Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
+54. Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
+
+   Link :
