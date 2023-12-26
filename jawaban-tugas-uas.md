@@ -26,7 +26,7 @@
 
 7. Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 
-   Link : 
+   Link : https://youtu.be/mK3CRevXn5g
 
 8. Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 
@@ -34,7 +34,7 @@
 
 9. Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 
-   Link : 
+   Link : https://youtu.be/JFojU9DeRPk
 
 10. Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 
@@ -42,7 +42,7 @@
 
 11. Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
-   Link :
+   Link : https://youtu.be/RWTG0lylb5c
 
 12. Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 
