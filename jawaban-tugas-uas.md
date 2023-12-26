@@ -18,7 +18,7 @@
 
 5. Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 
-   Link : 
+   Link : https://youtu.be/xP0OTeIOeW0
 
 6. Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 
@@ -38,7 +38,7 @@
 
 10. Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 
-   Link : 
+   Link : https://youtu.be/46UWg3AFCNY
 
 11. Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
@@ -54,11 +54,11 @@
 
 15. Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
 
-   Link : 
+   Link : https://youtu.be/yt_9ECR1k0E
 
 16. Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
 
-   Link : 
+   Link : https://youtu.be/Z7ZRdlkn9x4
 
 17. Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
 
@@ -66,15 +66,15 @@
 
 18. Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
 
-   Link : 
+   Link : https://youtu.be/ywnzHsxfc_U
 
 19. Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 
-   Link : 
+   Link : https://youtu.be/r0MiKr9Tf18
 
 20. Mencoba Pembuatan File JSON [v] ⭐⭐⭐
 
-   Link : 
+   Link : https://youtu.be/Ai67y4tqhqk
 
 21. Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
@@ -90,7 +90,7 @@
 
 24. Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
 
-   Link : 
+   Link : https://youtu.be/-01B15YrwXU
 
 25. Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
 
@@ -174,19 +174,19 @@
 
 45. Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 
-   Link :
-
+   Link : https://youtu.be/z33M3--Q3Zk
+  
 46. Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐
 
-   Link :
+   Link : https://youtu.be/-95VPLtdtBo
 
 47. Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
 
-   Link :
+   Link : https://youtu.be/WfugMQgNZw4
 
 48. Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
 
-   Link :
+   Link : https://youtu.be/EJ-GIC1rrVo
 
 49. Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 
@@ -194,15 +194,15 @@
 
 50. Eksplorasi Top Github Project yang Diminati ⭐⭐
 
-   Link :
+   Link : https://youtu.be/WOkd4IanQNw
 
 51. Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 
-   Link :
+   Link : https://youtu.be/yKlfz9tBcOE
 
 52. Membangun Profil Github Page ⭐⭐⭐⭐⭐
 
-   Link :
+   Link : https://youtu.be/20MGpsgKNyw
 
 53. Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 
