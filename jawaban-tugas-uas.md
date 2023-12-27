@@ -170,7 +170,7 @@
 
 44. Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 
-   Link :
+   Link : https://youtu.be/be1SoembT7o
 
 45. Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 
