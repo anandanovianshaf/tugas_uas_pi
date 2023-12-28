@@ -110,7 +110,7 @@
 
 29. Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
 
-   Link :
+   Link : https://youtu.be/M4r5gfIKItA
 
 30. Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
 
@@ -148,15 +148,15 @@
 
 38. Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 
-   Link :
+   Link : https://anandanvs.wordpress.com/2023/12/29/mencoba-protokol-komunikasi-iot-mqtt/
 
 39.Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
 
-   Link :
+   Link : https://youtu.be/lnW1qbjpIGE
 
 40. Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
 
-   Link :
+   Link : https://youtu.be/rsDaUwzlGkQ
 
 41. Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
 
