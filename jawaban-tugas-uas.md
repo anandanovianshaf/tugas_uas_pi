@@ -78,11 +78,11 @@
 
 21. Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
-   Link : 
+   Link : https://anandanvs.wordpress.com/2023/12/28/mencoba-hosting-website-html-dan-web-service/
 
 22. Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
 
-   Link : 
+   Link : https://anandanvs.wordpress.com/2023/12/28/mencoba-hosting-website-html-dan-web-service/
 
 23. Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
 
