@@ -98,7 +98,7 @@
 
 26. Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
 
-   Link : 
+   Link : https://anandanvs.wordpress.com/2023/12/06/pengaruh-pacaran-pada-remaja/
 
 27. Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
 
@@ -106,7 +106,7 @@
 
 28. Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
 
-   Link :
+   Link : https://youtu.be/vRMUvsMxOLo
 
 29. Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
 
@@ -126,7 +126,7 @@
 
 33. Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 
-   Link :
+   Link : 
 
 34. Mencoba Data Visualization Dengan Tools [v] ⭐⭐
 
