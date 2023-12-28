@@ -102,7 +102,7 @@
 
 27. Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
 
-   Link : 
+   Link : https://anandanvs.wordpress.com/2023/12/28/mendemonstrasikan-akses-konten-multimedia-image-audio-video/
 
 28. Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
 
@@ -118,11 +118,11 @@
 
 31. Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 
-   Link :
+   Link : https://anandanvs.wordpress.com/2023/12/28/mencoba-web-tool-ai-discriminative-image-classification/
 
 32. Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
 
-   Link :
+   Link : https://anandanvs.wordpress.com/2023/12/28/mencoba-web-tool-ai-discriminative-image-classification/
 
 33. Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 
