@@ -86,7 +86,7 @@
 
 23. Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
 
-   Link : 
+   Link : https://anandanvs.wordpress.com/2023/12/28/http-request-dan-web-api-dengan-postman/
 
 24. Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
 
@@ -94,7 +94,7 @@
 
 25. Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
 
-   Link : 
+   Link : https://anandanvs.wordpress.com/2023/12/28/mengeksplorasi-dan-menjelaskan-layanan-cloud-service-aws-amazon-web-service/
 
 26. Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
 
