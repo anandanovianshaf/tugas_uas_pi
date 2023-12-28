@@ -114,7 +114,7 @@
 
 30. Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
 
-   Link : 
+   Link : https://youtu.be/5c-kmY0n7yw
 
 31. Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 
@@ -144,7 +144,7 @@
 
 37. Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
 
-   Link : 
+   Link : https://youtu.be/-eCPUpvGnT0
 
 38. Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 
