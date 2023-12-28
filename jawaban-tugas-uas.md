@@ -206,8 +206,8 @@
 
 53. Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 
-   Link :
+   Link : https://drive.google.com/drive/folders/1UmV5S1p-FURUBCjuUFwaCLj037MzkC3Y?usp=drive_link
 
 54. Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
 
-   Link :
+   Link : https://youtu.be/4oZeAi6lQ28
