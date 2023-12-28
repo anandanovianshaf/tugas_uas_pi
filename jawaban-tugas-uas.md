@@ -138,11 +138,13 @@
 
 36. Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
 
-   Link :
+   Link : https://huggingface.co/NandaNVS
+         https://anandanvs.wordpress.com/2023/12/28/mencoba-eksplorasi-huggingface/
+         
 
 37. Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
 
-   Link :
+   Link : 
 
 38. Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 
