@@ -50,7 +50,7 @@
 
 14. Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
 
-   Link : 
+   Link : https://youtu.be/JU0s5G2_Lec
 
 15. Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
 
@@ -126,15 +126,15 @@
 
 33. Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 
-   Link : 
+   Link : https://youtu.be/ib2Csz5Ei98
 
 34. Mencoba Data Visualization Dengan Tools [v] ⭐⭐
 
-   Link :
+   Link : https://youtu.be/JE09b58vUkg
 
 35. Mencoba Data Visualization Dengan Code [v] ⭐⭐
 
-   Link :
+   Link : https://youtu.be/Ft7lnT8obxk
 
 36. Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
 
@@ -168,7 +168,7 @@
 
 43. Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 
-   Link :
+   Link : https://youtu.be/TwUPkUIPB7M
 
 44. Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 
